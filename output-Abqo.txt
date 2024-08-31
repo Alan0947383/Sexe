@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Alan0947383/Sexe/main/output-Abqo%20(10).txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alan0947383/Sexe/main/output-Abqo%20(11).txt", true))()
